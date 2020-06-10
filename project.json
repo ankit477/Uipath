@@ -1,0 +1,229 @@
+{
+  "name": "BlankProcess1",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "ActivitiesDataTable": "[1.0.0]",
+    "add": "[1.0.7]",
+    "Alphabet.Workflow.Activities": "[3.1.0]",
+    "Devaof.DB.MsAccess": "[1.1.0]",
+    "Kros.Utils.MsAccess": "[1.8.0]",
+    "Microsoft.Activities.Extensions": "[2.0.6.9]",
+    "SmartLogActivities": "[1.0.0]",
+    "UiPath.Database.Activities": "[1.3.7369.25200]",
+    "UiPath.Excel.Activities": "[2.8.5]",
+    "UiPath.HL7.FHIR.Activities": "[1.0.0]",
+    "UiPath.Mail.Activities": "[1.8.5]",
+    "UiPath.Python.Activities": "[1.1.6863.33404]",
+    "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.UIAutomation.Activities": "[20.4.1]",
+    "UiPath.WebAPI.Activities": "[1.4.5]",
+    "UiPathTeam.DatatablesComparison.Activities": "[1.0.9]",
+    "UiPathTeam.Healthcare.HL7FHIR.Activities": "[1.0.0.11]",
+    "UiPathTeam.JsonRequestActivities": "[1.0.0]",
+    "UiPathTeam.TextComparisonDesign.Activity": "[1.8.0]",
+    "UiPathTeam.XmlDataConverter.Activities": "[1.0.1]",
+    "XebiaCompareFile.Activities": "[1.0.1]"
+  },
+  "webServices": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.4.1.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "84319048-ac17-4e01-8a65-be6674c084c7",
+        "fileName": "readjson.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "875960bb-8c03-48af-9386-9d23806e07b0",
+        "fileName": "msaccess.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "d717e920-43b1-4b4a-8c79-0cc0abca0a0a",
+        "fileName": "exe.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "3b383738-b915-4520-8f83-7bdc6d47b16b",
+        "fileName": "exe2.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "2d35a5d8-4aed-4bfe-a54c-8092f205baf2",
+        "fileName": "Mysql access.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "5be28316-5e71-49f6-b64b-a0d552bc7c96",
+        "fileName": "mysqldatatojson.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "85321771-563a-4fc7-8b9c-9b3236b1035d",
+        "fileName": "mysqltoxml.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "280e02a3-efc3-40c6-aa08-1d788f428615",
+        "fileName": "Jsontodatatable.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "40f12160-9313-4a89-bb0d-6a49dbb3578b",
+        "fileName": "TestCasefhir.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "cc68b12e-df88-40eb-ac67-7ea8ce2cd3d0",
+        "fileName": "TestCaseforread.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "c1d04db3-8e00-4a44-888c-f09ea6adf85a",
+        "fileName": "Try other request.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "1a145308-8596-4f7c-b9a9-4ebf22346d71",
+        "fileName": "parser.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "14b62f5a-0455-4190-8e73-062c4df3f79f",
+        "fileName": "TestCase11.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "30f042e4-36be-44cd-a6b0-3154e8c9adbc",
+        "fileName": "in12.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "32b3d769-e7ae-40ce-bb40-e799e0d2b5b4",
+        "fileName": "Tryotherpostreq.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "4c2084f7-0fa8-43af-9d3a-e60628d0702d",
+        "fileName": "excelhandlingg.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "56d768ac-bef1-48e8-9640-35931e37708f",
+        "fileName": "tryotherreqaga.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "6495fe77-34a0-4256-9bdd-2318c7a70226",
+        "fileName": "excelhandling2.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f889fb6e-ceab-4a35-976e-62af39373f23",
+        "fileName": "excel3.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "166e2d17-cb15-4d07-8779-b6c0ae2262a3",
+        "fileName": "flow.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "11e26002-fb39-4584-90d1-d8021a3a452b",
+        "fileName": "libb.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b29545fc-0b81-47df-a634-2b985c9c5ce8",
+        "fileName": "csd.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "4b04e2eb-8186-455a-b3bb-c09baa154729",
+        "fileName": "dataa11.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "21389d25-91c2-4fb2-8396-003df608481a",
+        "fileName": "TestCasedb.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f2868b0a-892c-46da-ae50-512969a31dd7",
+        "fileName": "csdd.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "1d42e477-537f-4c5f-816a-b786e50d70d9",
+        "fileName": "Glb.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "14caf746-d1d7-4e33-b755-762ace0b7c90",
+        "fileName": "Exception handling1.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "783117fb-2eba-47dc-99b9-620a58554371",
+        "fileName": "Exception2.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "9f533a58-046b-4e6f-9b35-9c618898e780",
+        "fileName": "WFA.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "1c0299cd-6021-4edc-b828-c56bde5f347e",
+        "fileName": "WExceptionTCusingcatch.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "be7ba542-3678-4469-b4b9-ec3a3931c22b",
+        "fileName": "WExceptionusingowmmsh.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "fede8990-26b9-4aeb-8ef7-26c88ccc4284",
+        "fileName": "WExceptionusingthrow.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "41fab47d-1db4-46be-b977-136425466705",
+        "fileName": "WExceptionusingthrowb.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "9e37bfb0-0887-4daf-93f6-9cf4c4ea3556",
+        "fileName": "WExceptionusingmulcatch.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "fccc2c96-a358-4e6c-9930-e9a7c33e56a7",
+        "fileName": "gitt.xaml"
+      }
+    ]
+  },
+  "expressionLanguage": "VisualBasic"
+}
